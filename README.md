@@ -1,8 +1,9 @@
 # chromePlugin
 Chrome打开新标签页显示搜索链接插件
   
-  安装
-  方法1.拖动chromePlugin.crx文件到Chrome浏览器即可安装
+  **<font size=6>安装</font>**
+    
+    方法1.拖动chromePlugin.crx文件到Chrome浏览器即可安装
     
     
   方法2.
@@ -16,3 +17,7 @@ Chrome打开新标签页显示搜索链接插件
   使用
   
   打开一个新标签，即可使用，可快速链接到相关网站
+  
+    <img src="/images/localhost.png"  width="500" height="400">
+    
+    <img src="/images/guid.png"  width="700" height="400">
