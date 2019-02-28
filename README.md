@@ -3,10 +3,12 @@ Chrome打开新标签页显示搜索链接插件
   
   **<font size=6>安装</font>**
     
-    方法1.拖动chromePlugin.crx文件到Chrome浏览器即可安装
+    方法1
+      
+      一、拖动chromePlugin.crx文件到Chrome浏览器即可安装
     
     
-  方法2.
+  方法2
     
     一、可下载代码然后打开newtab.html文件，修改文件中相关链接和图片即可重新定制
     
